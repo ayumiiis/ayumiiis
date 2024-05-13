@@ -1,16 +1,15 @@
-### Hi there 👋
+### BOAS VINDAS AO MEU PERFIL! 🖤
 
-<!--
-**ayumiiis/ayumiiis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Larissa Ayumi!
+- Nasci no Japão! 🗾
+- Sou brasileira com descendência japonesa.
+- Estou me aprimorando na tecnologia robótica.
+- Estudo na Alura.
+- Estou aqui para organizar e desenvolver os meus projetos.
 
-Here are some ideas to get you started:
+### ENTRE EM CONTATO COMIGO!
+- E-MAIL: lariihsaito0123@gmail.com
+- INSTA: @ayumii.is
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ASSISTA HAIKYUU!
+![](https://media1.tenor.com/m/Lz6PJhBFkiYAAAAC/haikyuu-dance-niku-niku.gif)
